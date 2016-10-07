@@ -56,6 +56,12 @@ h1 {
    background-color: khaki;  
   }
 
+  @media(max-width: 766px){
+     .cell {
+      margin-bottom: 20px;
+     }
+  }
+
   @media(min-width: 767px) and (max-width: 991px){
   	.col-sm-6{
   		width: 50%;
