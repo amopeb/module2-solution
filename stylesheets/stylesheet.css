@@ -27,6 +27,9 @@ h1 {
   	max-height: 200px;
   	overflow: hidden;
   }
+.cell  p  {
+	padding: 10px;
+}
   .cell > h2 {
   	margin: 0;
   	margin-bottom: 10px;
